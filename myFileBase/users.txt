@@ -1,0 +1,5 @@
+ID|USERNAME|PASSWORD|ROLEUSER
+1|imane|123|Admin
+2|basma|456|Dentiste
+3|aida|789|Assistante
+4|basam|115|Admin

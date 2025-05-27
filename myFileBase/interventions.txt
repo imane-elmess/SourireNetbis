@@ -1,0 +1,5 @@
+ID|NOTE|ACTE_ID|PRIXPATIENT
+401|Extraction de dent|501|500
+402|Nettoyage dentaire|502|500
+403|Contrôle de suivi|503|300
+404|Traitement d'urgence|504|700

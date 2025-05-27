@@ -1,0 +1,6 @@
+ID|NOM|STATUTMEDICAMENT|QTESTOCK
+601|Paracétamol|Interne|100
+602|Ibuprofène|Externe|0
+603|Amoxicilline|Interne|50
+604|Vitamine C|Externe|0
+605|Antibiotique X|Interne|70

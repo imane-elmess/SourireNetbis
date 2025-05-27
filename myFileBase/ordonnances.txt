@@ -1,0 +1,5 @@
+ID|MEDICAMENTS_IDS|DESCRIPTION
+201|601,602|Prescriptions pour Consultation générale
+202|603|Prescriptions pour suivi
+203|604,605|Prescriptions pour urgence
+204|601|Prescriptions pour Consultation générale

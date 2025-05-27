@@ -1,0 +1,7 @@
+ID|CIN|NOM|PRENOM|AGE|SEXE|ASSURANCE
+1|AB123456|El Idrissi|Ahmed|45|Homme|CNSS
+2|CD789101|Bennani|Fatima|32|Femme|CNOPS
+3|EF112233|Ouadghiri|Mohamed|60|Homme|FAR
+4|GH445566|Alaoui|Meryem|29|Femme|AUTRES
+5|AAA2311|EL Messaoudi|Imane|23|Femme|FAR
+6|A564654654|fff|Hicham|28|Homme|FAR

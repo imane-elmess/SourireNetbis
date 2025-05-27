@@ -1,0 +1,5 @@
+ID|LIBELLE|PRIXBASE|CATEGORIEACTE
+501|Extraction de dent|200|chirurgie
+502|Nettoyage dentaire|100|Prévention
+503|Contrôle de suivi|150|Prévention
+504|Traitement d'urgence|300|soins_caries
